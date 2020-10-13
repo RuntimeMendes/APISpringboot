@@ -20,8 +20,7 @@ import com.example.rest.restAccenture.service.UsuarioService;
 public class SegurancaConfig {//implements UserDetailsService
 
 	@Autowired
-	private UsuarioService userService;
-	
+	private UsuarioService userService;	
 	
 	//@Override
 	/*public UserDetails loadUserByUsername(String login) throws UsernameNotFoundException {
