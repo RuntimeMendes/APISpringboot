@@ -1,2 +1,2 @@
 apenas test pra ver se esta funcionando o envio ao repositorio
-git
+git deploy
